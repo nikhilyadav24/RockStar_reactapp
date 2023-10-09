@@ -6,7 +6,10 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: sticky;
+    position: sticky;  //apni alag space lega
+    //position: fixed;  //homepage ke upr ajaiga
+    // opacity: 0.8;
+    // filter: blur(3px);
     background-color:  white ;
     top: 0%;
     z-index: 10;
