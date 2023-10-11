@@ -84,6 +84,7 @@
     height: 90vh;
     background-color: $second;
     display: flex;
+    align-items: center;
     
 
     >div{
@@ -125,8 +126,10 @@
     background-color: $second;
     display: flex;
     justify-content: flex-end;
+    align-items: center;
 
     >div{
+        // margin-top: 10vh;
         background-color: $third;
         border-radius: 200px 0 0 200px;
         width: 70%;
@@ -143,8 +146,8 @@
             border-bottom: 2px solid $first;
             padding: 0.5rem;
 
-            margin-left: 30rem;
-            margin-top: 9rem;
+            margin-left: 45%;
+            margin-top: 15%;
         }
         >article{
             display: flex;
