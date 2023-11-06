@@ -9,16 +9,16 @@ const Footer = () => {
       </div>
 
       <div>
-        <h5>Follow Us</h5>
+        <h5>Follow Me</h5>
         <div>
-          <a href="#" target={"blank"}>
-            Youtube
+          <a href="https://x.com/nikhilyadav2424" target={"blank"}>
+            Twitter
           </a>
-          <a href="#" target={"blank"}>
-            Instagram
+          <a href="https://github.com/nikhilyadav24" target={"blank"}>
+            GitHub
           </a>
-          <a href="#" target={"blank"}>
-            Github
+          <a href="https://www.linkedin.com/in/nikhilyadav24" target={"blank"}>
+            LinkedIn
           </a>
         </div>
       </div>
